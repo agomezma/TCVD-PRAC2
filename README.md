@@ -10,9 +10,9 @@ Ficheros:
 
 - README.md: esta descripción.
 - TCVD_PRAC2_agomezma.ypynb: notebook
-- TCVD_PRAC2_agomezma.html: notebook en HTML
-- TCVD_PRAC2_agomezma.PDF: notebook en PDF
-- TCVD_PRAC2_agomezma.R: código R extraido del notebook
+- TCVD_PRAC2_agomezma.html: notebook en HTML  
+- TCVD_PRAC2_agomezma.pdf: notebook en PDF (no se ve correctamente)
+- TCVD_PRAC2_agomezma.r: código R extraido del notebook
 - winequality-red.csv: dataset de vinos tintos original
 - winequality-white.csv: dataset de vinos blancos original
 - winequality.csv: dataset generado
